@@ -1,0 +1,2464 @@
+{
+  "meta": {
+    "person": "Kevin Bussri",
+    "plan": "Growth – 12-Wochen-Muskelaufbauplan",
+    "start": "2026-12-07",
+    "ende": "2027-02-28",
+    "zeitraum_text": "07.12.2026–28.02.2027",
+    "ziele": [
+      "Muskeln aufbauen",
+      "mehr Energie",
+      "gesünder leben"
+    ],
+    "koerper": {
+      "groesse_m": 1.78,
+      "gewicht_kg": 75,
+      "bmi": 23.7,
+      "alter": 28
+    },
+    "phasen": [
+      {
+        "name": "Einstieg/Technik",
+        "wochen": [
+          1,
+          2
+        ],
+        "von": "2026-12-07",
+        "bis": "2026-12-20"
+      },
+      {
+        "name": "Aufbau",
+        "wochen": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "von": "2026-12-21",
+        "bis": "2027-01-24"
+      },
+      {
+        "name": "Deload",
+        "wochen": [
+          8
+        ],
+        "von": "2027-01-25",
+        "bis": "2027-01-31"
+      },
+      {
+        "name": "Intensivierung",
+        "wochen": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "von": "2027-02-01",
+        "bis": "2027-02-28"
+      }
+    ],
+    "wochen": [
+      {
+        "woche": 1,
+        "von": "2026-12-07",
+        "bis": "2026-12-13",
+        "phase": "Einstieg/Technik",
+        "hinweis": "Startgewichte finden, 2 Sätze pro Übung; Foto, Maße, Gewicht"
+      },
+      {
+        "woche": 2,
+        "von": "2026-12-14",
+        "bis": "2026-12-20",
+        "phase": "Einstieg/Technik",
+        "hinweis": "3 Sätze, gleiches Gewicht oder +1 Stufe"
+      },
+      {
+        "woche": 3,
+        "von": "2026-12-21",
+        "bis": "2026-12-27",
+        "phase": "Aufbau",
+        "hinweis": "Double Progression startet. Fr 25.12. ist Feiertag: C auf Sa 26.12. oder So 27.12. legen (Öffnungszeiten prüfen)"
+      },
+      {
+        "woche": 4,
+        "von": "2026-12-28",
+        "bis": "2027-01-03",
+        "phase": "Aufbau",
+        "hinweis": "Silvester: Alkohol klein halten. Fr 01.01. ist Feiertag: C auf Sa 02.01. Ende der Woche: 1. Gewichts-Check (±150 kcal)"
+      },
+      {
+        "woche": 5,
+        "von": "2027-01-04",
+        "bis": "2027-01-10",
+        "phase": "Aufbau",
+        "hinweis": "Foto + Maße. Optionale 4. Einheit möglich"
+      },
+      {
+        "woche": 6,
+        "von": "2027-01-11",
+        "bis": "2027-01-17",
+        "phase": "Aufbau",
+        "hinweis": "Isolationsübungen dürfen RIR 1 haben"
+      },
+      {
+        "woche": 7,
+        "von": "2027-01-18",
+        "bis": "2027-01-24",
+        "phase": "Aufbau",
+        "hinweis": "Schwerste Aufbauwoche, Maße"
+      },
+      {
+        "woche": 8,
+        "von": "2027-01-25",
+        "bis": "2027-01-31",
+        "phase": "Deload",
+        "hinweis": "Volumen ca. halbiert, Gewicht −10 %, keine 4. Einheit. 2. Gewichts-Check"
+      },
+      {
+        "woche": 9,
+        "von": "2027-02-01",
+        "bis": "2027-02-07",
+        "phase": "Intensivierung",
+        "hinweis": "Neue Übungen + mehr Sätze für Oberkörper; Foto, Maße"
+      },
+      {
+        "woche": 10,
+        "von": "2027-02-08",
+        "bis": "2027-02-14",
+        "phase": "Intensivierung",
+        "hinweis": "Letzter Satz bei Isolation darf RIR 0 sein"
+      },
+      {
+        "woche": 11,
+        "von": "2027-02-15",
+        "bis": "2027-02-21",
+        "phase": "Intensivierung",
+        "hinweis": "Volumen halten, Gewicht steigern wo möglich; Maße"
+      },
+      {
+        "woche": 12,
+        "von": "2027-02-22",
+        "bis": "2027-02-28",
+        "phase": "Intensivierung",
+        "hinweis": "Bestwerte notieren; Abschluss-Foto/Maße am So 28.02."
+      }
+    ],
+    "hinweis": "Ersetzt keine ärztliche Beratung. Bei Schmerzen die Übung tauschen und nicht durchziehen."
+  },
+  "trainingstage": {
+    "regel": [
+      {
+        "wochentag": "Montag",
+        "einheit": "A"
+      },
+      {
+        "wochentag": "Mittwoch",
+        "einheit": "B"
+      },
+      {
+        "wochentag": "Freitag",
+        "einheit": "C"
+      },
+      {
+        "wochentag": "Samstag",
+        "einheit": "D (optional, ab W3, nicht in W1–2 und W8)"
+      }
+    ],
+    "feiertagsverschiebungen": [
+      {
+        "datum": "2026-12-25",
+        "einheit": "C",
+        "verschiebung": "Sa 26.12. oder So 27.12. (Öffnungszeiten prüfen)"
+      },
+      {
+        "datum": "2027-01-01",
+        "einheit": "C",
+        "verschiebung": "Sa 02.01."
+      }
+    ],
+    "regeln": [
+      "Fällt ein Termin aus, Einheit um einen Tag verschieben, Reihenfolge A → B → C beibehalten",
+      "Zwischen zwei Einheiten mindestens ein Ruhetag; nur die optionale Einheit D darf direkt auf C folgen",
+      "Minimum-Regel: lieber 30 Minuten (Aufwärmen + erste 3 Übungen à 2 Sätze) als ausfallen lassen",
+      "W1–4: nur Erscheinen zählt (Ziel 12 von 12 Terminen)"
+    ],
+    "aufwaermen_min": 5
+  },
+  "einheiten": [
+    {
+      "einheit": "A",
+      "wochentag": "Montag",
+      "uebungen": [
+        {
+          "name": "Beinpresse",
+          "ab_woche": 1,
+          "phasen": {
+            "W1-2": {
+              "saetze": "2→3",
+              "wiederholungen": "10–12",
+              "rir": "3–4"
+            },
+            "W3-7": {
+              "saetze": "3",
+              "wiederholungen": "8–12",
+              "rir": "2"
+            },
+            "W8": {
+              "saetze": "2",
+              "wiederholungen": "10",
+              "rir": "4"
+            },
+            "W9-12": {
+              "saetze": "3",
+              "wiederholungen": "6–10",
+              "rir": "1–2"
+            }
+          },
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "startgewicht_hinweis": null,
+          "pause_sek": [
+            120,
+            180
+          ],
+          "pause_text": "2–3 min",
+          "alternative": "Kürzerer Bewegungsweg, Füße höher auf der Platte, oder Hackenschmidt"
+        },
+        {
+          "name": "Kabelzug low-to-high oder Schrägbrustmaschine",
+          "ab_woche": 1,
+          "phasen": {
+            "W1-2": {
+              "saetze": "2→3",
+              "wiederholungen": "10–12",
+              "rir": "3–4"
+            },
+            "W3-7": {
+              "saetze": "3",
+              "wiederholungen": "10–12",
+              "rir": "2"
+            },
+            "W8": {
+              "saetze": "2",
+              "wiederholungen": "10",
+              "rir": "4"
+            },
+            "W9-12": {
+              "saetze": "4",
+              "wiederholungen": "8–12",
+              "rir": "1–2"
+            }
+          },
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "startgewicht_hinweis": null,
+          "pause_sek": [
+            90,
+            120
+          ],
+          "pause_text": "90 s–2 min",
+          "alternative": "Kabel-Fliegende auf Brusthöhe oder Butterfly-Maschine mit kleinerem Bewegungsweg"
+        },
+        {
+          "name": "Kabelrudern, neutraler Griff",
+          "ab_woche": 1,
+          "phasen": {
+            "W1-2": {
+              "saetze": "2→3",
+              "wiederholungen": "10–12",
+              "rir": "3–4"
+            },
+            "W3-7": {
+              "saetze": "3",
+              "wiederholungen": "8–12",
+              "rir": "2"
+            },
+            "W8": {
+              "saetze": "2",
+              "wiederholungen": "10",
+              "rir": "4"
+            },
+            "W9-12": {
+              "saetze": "4",
+              "wiederholungen": "8–12",
+              "rir": "1–2"
+            }
+          },
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "startgewicht_hinweis": null,
+          "pause_sek": [
+            120,
+            120
+          ],
+          "pause_text": "2 min",
+          "alternative": null
+        },
+        {
+          "name": "KH-Schulterdrücken sitzend, neutraler Griff",
+          "ab_woche": 1,
+          "phasen": {
+            "W1-2": {
+              "saetze": "2→3",
+              "wiederholungen": "10–12",
+              "rir": "3–4"
+            },
+            "W3-7": {
+              "saetze": "3",
+              "wiederholungen": "8–12",
+              "rir": "2"
+            },
+            "W8": {
+              "saetze": "2",
+              "wiederholungen": "10",
+              "rir": "4"
+            },
+            "W9-12": {
+              "saetze": "3",
+              "wiederholungen": "6–10",
+              "rir": "1–2"
+            }
+          },
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "startgewicht_hinweis": null,
+          "pause_sek": [
+            120,
+            120
+          ],
+          "pause_text": "2 min",
+          "alternative": "Maschinen-Schulterdrücken mit neutralem Griff, oder vorerst nur Seitheben"
+        },
+        {
+          "name": "Kabel-Seitheben einarmig",
+          "ab_woche": 9,
+          "phasen": {
+            "W1-2": null,
+            "W3-7": null,
+            "W8": null,
+            "W9-12": {
+              "saetze": "3",
+              "wiederholungen": "12–15",
+              "rir": "1"
+            }
+          },
+          "startgewicht": null,
+          "startgewicht_hinweis": "Ab W9 neu: Startgewicht wie in W1 beschrieben ermitteln",
+          "pause_sek": [
+            60,
+            60
+          ],
+          "pause_text": "60 s",
+          "alternative": null
+        },
+        {
+          "name": "Dead Bug",
+          "ab_woche": 1,
+          "phasen": {
+            "W1-2": {
+              "saetze": "2→3",
+              "wiederholungen": "8 je Seite"
+            },
+            "W3-7": {
+              "saetze": "3",
+              "wiederholungen": "8–10 je Seite"
+            },
+            "W8": {
+              "saetze": "2",
+              "wiederholungen": "8 je Seite"
+            },
+            "W9-12": {
+              "saetze": "3",
+              "wiederholungen": "10 je Seite"
+            }
+          },
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "startgewicht_hinweis": null,
+          "pause_sek": [
+            60,
+            60
+          ],
+          "pause_text": "60 s",
+          "alternative": null
+        },
+        {
+          "name": "Bizeps am Seil (Hammer-Curl)",
+          "ab_woche": 1,
+          "phasen": {
+            "W1-2": {
+              "saetze": "2→3",
+              "wiederholungen": "12",
+              "rir": "3–4"
+            },
+            "W3-7": {
+              "saetze": "3",
+              "wiederholungen": "10–15",
+              "rir": "1–2"
+            },
+            "W8": {
+              "saetze": "2",
+              "wiederholungen": "12",
+              "rir": "4"
+            },
+            "W9-12": {
+              "saetze": "4",
+              "wiederholungen": "10–12",
+              "rir": "0–1*"
+            }
+          },
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "startgewicht_hinweis": null,
+          "pause_sek": [
+            60,
+            90
+          ],
+          "pause_text": "60–90 s",
+          "alternative": "Leichteres Gewicht, 15–20 Wdh, oder Hammer-Curl mit Kurzhanteln"
+        }
+      ]
+    },
+    {
+      "einheit": "B",
+      "wochentag": "Mittwoch",
+      "uebungen": [
+        {
+          "name": "Rumänisches Kreuzheben (Kurzhanteln, Langhantel ab W5 möglich)",
+          "ab_woche": 1,
+          "phasen": {
+            "W1-2": {
+              "saetze": "2→3",
+              "wiederholungen": "10",
+              "rir": "3–4"
+            },
+            "W3-7": {
+              "saetze": "3",
+              "wiederholungen": "8–10",
+              "rir": "2–3"
+            },
+            "W8": {
+              "saetze": "2",
+              "wiederholungen": "8",
+              "rir": "4"
+            },
+            "W9-12": {
+              "saetze": "3",
+              "wiederholungen": "6–10",
+              "rir": "2"
+            }
+          },
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "startgewicht_hinweis": null,
+          "pause_sek": [
+            120,
+            180
+          ],
+          "pause_text": "2–3 min",
+          "alternative": "Hyperextensions 45° mit Fokus aufs Gesäß, oder Hip-Thrust-Maschine"
+        },
+        {
+          "name": "Latzug eng, neutraler Griff",
+          "ab_woche": 1,
+          "phasen": {
+            "W1-2": {
+              "saetze": "2→3",
+              "wiederholungen": "10–12",
+              "rir": "3–4"
+            },
+            "W3-7": {
+              "saetze": "3",
+              "wiederholungen": "8–12",
+              "rir": "2"
+            },
+            "W8": {
+              "saetze": "2",
+              "wiederholungen": "10",
+              "rir": "4"
+            },
+            "W9-12": {
+              "saetze": "4",
+              "wiederholungen": "8–12",
+              "rir": "1–2"
+            }
+          },
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "startgewicht_hinweis": null,
+          "pause_sek": [
+            120,
+            120
+          ],
+          "pause_text": "2 min",
+          "alternative": "Einarmiger Latzug am Kabel oder Maschinen-Latzug mit neutralen Griffen"
+        },
+        {
+          "name": "Brustpresse (Maschine)",
+          "ab_woche": 1,
+          "phasen": {
+            "W1-2": {
+              "saetze": "2→3",
+              "wiederholungen": "10–12",
+              "rir": "3–4"
+            },
+            "W3-7": {
+              "saetze": "3",
+              "wiederholungen": "8–12",
+              "rir": "2"
+            },
+            "W8": {
+              "saetze": "2",
+              "wiederholungen": "10",
+              "rir": "4"
+            },
+            "W9-12": {
+              "saetze": "4",
+              "wiederholungen": "8–10",
+              "rir": "1–2"
+            }
+          },
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "startgewicht_hinweis": null,
+          "pause_sek": [
+            120,
+            120
+          ],
+          "pause_text": "2 min",
+          "alternative": "Kabel-Fliegende auf Brusthöhe oder Butterfly-Maschine mit kleinerem Bewegungsweg"
+        },
+        {
+          "name": "Beincurl (Maschine)",
+          "ab_woche": 1,
+          "phasen": {
+            "W1-2": {
+              "saetze": "2→3",
+              "wiederholungen": "12",
+              "rir": "3–4"
+            },
+            "W3-7": {
+              "saetze": "3",
+              "wiederholungen": "10–15",
+              "rir": "1–2"
+            },
+            "W8": {
+              "saetze": "2",
+              "wiederholungen": "12",
+              "rir": "4"
+            },
+            "W9-12": {
+              "saetze": "3",
+              "wiederholungen": "10–15",
+              "rir": "1"
+            }
+          },
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "startgewicht_hinweis": null,
+          "pause_sek": [
+            90,
+            90
+          ],
+          "pause_text": "90 s",
+          "alternative": null
+        },
+        {
+          "name": "Face Pull am Seil",
+          "ab_woche": 9,
+          "phasen": {
+            "W1-2": null,
+            "W3-7": null,
+            "W8": null,
+            "W9-12": {
+              "saetze": "3",
+              "wiederholungen": "15–20",
+              "rir": "1–2"
+            }
+          },
+          "startgewicht": null,
+          "startgewicht_hinweis": "Ab W9 neu: Startgewicht wie in W1 beschrieben ermitteln",
+          "pause_sek": [
+            60,
+            60
+          ],
+          "pause_text": "60 s",
+          "alternative": null
+        },
+        {
+          "name": "Bird Dog",
+          "ab_woche": 1,
+          "phasen": {
+            "W1-2": {
+              "saetze": "2→3",
+              "wiederholungen": "8 je Seite"
+            },
+            "W3-7": {
+              "saetze": "3",
+              "wiederholungen": "8–10 je Seite",
+              "hinweis": "2 s halten"
+            },
+            "W8": {
+              "saetze": "2",
+              "wiederholungen": "8 je Seite"
+            },
+            "W9-12": {
+              "saetze": "3",
+              "wiederholungen": "10 je Seite",
+              "hinweis": "2 s halten"
+            }
+          },
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "startgewicht_hinweis": null,
+          "pause_sek": [
+            60,
+            60
+          ],
+          "pause_text": "60 s",
+          "alternative": null
+        },
+        {
+          "name": "Trizeps am Seil (Pushdown)",
+          "ab_woche": 1,
+          "phasen": {
+            "W1-2": {
+              "saetze": "2→3",
+              "wiederholungen": "12",
+              "rir": "3–4"
+            },
+            "W3-7": {
+              "saetze": "3",
+              "wiederholungen": "10–15",
+              "rir": "1–2"
+            },
+            "W8": {
+              "saetze": "2",
+              "wiederholungen": "12",
+              "rir": "4"
+            },
+            "W9-12": {
+              "saetze": "4",
+              "wiederholungen": "10–12",
+              "rir": "0–1*"
+            }
+          },
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "startgewicht_hinweis": null,
+          "pause_sek": [
+            60,
+            90
+          ],
+          "pause_text": "60–90 s",
+          "alternative": "Leichteres Gewicht, 15–20 Wdh"
+        }
+      ]
+    },
+    {
+      "einheit": "C",
+      "wochentag": "Freitag",
+      "uebungen": [
+        {
+          "name": "Goblet Squat",
+          "ab_woche": 1,
+          "phasen": {
+            "W1-2": {
+              "saetze": "2→3",
+              "wiederholungen": "10–12",
+              "rir": "3–4"
+            },
+            "W3-7": {
+              "saetze": "3",
+              "wiederholungen": "8–12",
+              "rir": "2"
+            },
+            "W8": {
+              "saetze": "2",
+              "wiederholungen": "10",
+              "rir": "4"
+            },
+            "W9-12": {
+              "saetze": "3",
+              "wiederholungen": "8–12",
+              "rir": "1–2"
+            }
+          },
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "startgewicht_hinweis": null,
+          "pause_sek": [
+            120,
+            120
+          ],
+          "pause_text": "2 min",
+          "alternative": "Kürzerer Bewegungsweg oder Hackenschmidt; bei zu schwerer Kurzhantel Hackenschmidt oder Beinpresse mit engerem Stand"
+        },
+        {
+          "name": "Rudern (Maschine, brustgestützt)",
+          "ab_woche": 1,
+          "phasen": {
+            "W1-2": {
+              "saetze": "2→3",
+              "wiederholungen": "10–12",
+              "rir": "3–4"
+            },
+            "W3-7": {
+              "saetze": "3",
+              "wiederholungen": "8–12",
+              "rir": "2"
+            },
+            "W8": {
+              "saetze": "2",
+              "wiederholungen": "10",
+              "rir": "4"
+            },
+            "W9-12": {
+              "saetze": "4",
+              "wiederholungen": "8–12",
+              "rir": "1–2"
+            }
+          },
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "startgewicht_hinweis": null,
+          "pause_sek": [
+            120,
+            120
+          ],
+          "pause_text": "2 min",
+          "alternative": null
+        },
+        {
+          "name": "Seitheben (KH oder Kabel)",
+          "ab_woche": 1,
+          "phasen": {
+            "W1-2": {
+              "saetze": "2→3",
+              "wiederholungen": "12–15",
+              "rir": "3–4"
+            },
+            "W3-7": {
+              "saetze": "3",
+              "wiederholungen": "12–15",
+              "rir": "1–2"
+            },
+            "W8": {
+              "saetze": "2",
+              "wiederholungen": "12",
+              "rir": "4"
+            },
+            "W9-12": {
+              "saetze": "4",
+              "wiederholungen": "12–20",
+              "rir": "0–1*"
+            }
+          },
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "startgewicht_hinweis": null,
+          "pause_sek": [
+            60,
+            60
+          ],
+          "pause_text": "60 s",
+          "alternative": null
+        },
+        {
+          "name": "Dips an der Maschine",
+          "ab_woche": 1,
+          "phasen": {
+            "W1-2": {
+              "saetze": "2→3",
+              "wiederholungen": "10–12",
+              "rir": "3–4"
+            },
+            "W3-7": {
+              "saetze": "3",
+              "wiederholungen": "8–12",
+              "rir": "2"
+            },
+            "W8": {
+              "saetze": "2",
+              "wiederholungen": "10",
+              "rir": "4"
+            },
+            "W9-12": {
+              "saetze": "4",
+              "wiederholungen": "8–12",
+              "rir": "1–2"
+            }
+          },
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "startgewicht_hinweis": null,
+          "pause_sek": [
+            90,
+            120
+          ],
+          "pause_text": "90 s–2 min",
+          "alternative": "Trizeps am Seil einarmig"
+        },
+        {
+          "name": "Hammer-Curl mit Kurzhanteln",
+          "ab_woche": 9,
+          "phasen": {
+            "W1-2": null,
+            "W3-7": null,
+            "W8": null,
+            "W9-12": {
+              "saetze": "3",
+              "wiederholungen": "10–12",
+              "rir": "1"
+            }
+          },
+          "startgewicht": null,
+          "startgewicht_hinweis": "Ab W9 neu: Startgewicht wie in W1 beschrieben ermitteln",
+          "pause_sek": [
+            60,
+            90
+          ],
+          "pause_text": "60–90 s",
+          "alternative": null
+        },
+        {
+          "name": "Cable Crunch",
+          "ab_woche": 1,
+          "phasen": {
+            "W1-2": {
+              "saetze": "2→3",
+              "wiederholungen": "12–15",
+              "rir": "3"
+            },
+            "W3-7": {
+              "saetze": "3",
+              "wiederholungen": "12–15",
+              "rir": "2"
+            },
+            "W8": {
+              "saetze": "2",
+              "wiederholungen": "12",
+              "rir": "4"
+            },
+            "W9-12": {
+              "saetze": "3",
+              "wiederholungen": "12–15",
+              "rir": "1"
+            }
+          },
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "startgewicht_hinweis": null,
+          "pause_sek": [
+            60,
+            60
+          ],
+          "pause_text": "60 s",
+          "alternative": null
+        },
+        {
+          "name": "Wadenheben (Maschine)",
+          "ab_woche": 1,
+          "phasen": {
+            "W1-2": {
+              "saetze": "2→3",
+              "wiederholungen": "12–15",
+              "rir": "3"
+            },
+            "W3-7": {
+              "saetze": "3",
+              "wiederholungen": "10–15",
+              "rir": "1–2"
+            },
+            "W8": {
+              "saetze": "2",
+              "wiederholungen": "12",
+              "rir": "4"
+            },
+            "W9-12": {
+              "saetze": "3",
+              "wiederholungen": "10–15",
+              "rir": "1"
+            }
+          },
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "startgewicht_hinweis": null,
+          "pause_sek": [
+            60,
+            60
+          ],
+          "pause_text": "60 s",
+          "alternative": null
+        }
+      ]
+    },
+    {
+      "einheit": "D (optional)",
+      "wochentag": "Samstag",
+      "bedingung": "A, B und C geschafft, WHOOP grün, keine Beschwerden; ab W3, nicht W1–2 und W8",
+      "uebungen": [
+        {
+          "name": "Kabel-Seitheben einarmig",
+          "saetze": "3",
+          "wiederholungen": "12–15",
+          "rir": "1–2",
+          "pause_sek": [
+            60,
+            60
+          ],
+          "pause_text": "60 s",
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "alternative": null
+        },
+        {
+          "name": "Reverse Butterfly (Maschine)",
+          "saetze": "3",
+          "wiederholungen": "15–20",
+          "rir": "1–2",
+          "pause_sek": [
+            60,
+            60
+          ],
+          "pause_text": "60 s",
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "alternative": null
+        },
+        {
+          "name": "Bizeps-Curl am Kabel oder KH, neutraler Griff",
+          "saetze": "3",
+          "wiederholungen": "10–12",
+          "rir": "1–2",
+          "pause_sek": [
+            60,
+            90
+          ],
+          "pause_text": "60–90 s",
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "alternative": null
+        },
+        {
+          "name": "Trizeps über Kopf am Kabel (Seil)",
+          "saetze": "3",
+          "wiederholungen": "10–12",
+          "rir": "1–2",
+          "pause_sek": [
+            60,
+            90
+          ],
+          "pause_text": "60–90 s",
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "alternative": "Einarmiger Pushdown am Kabel (wenn der Ellenbogen sich meldet)"
+        },
+        {
+          "name": "Pallof-Press am Kabel",
+          "saetze": "3",
+          "wiederholungen": "10 je Seite",
+          "pause_sek": [
+            60,
+            60
+          ],
+          "pause_text": "60 s",
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "alternative": null
+        },
+        {
+          "name": "Knieheben am Dip-Stuhl",
+          "saetze": "3",
+          "wiederholungen": "10–12",
+          "pause_sek": [
+            60,
+            60
+          ],
+          "pause_text": "60 s",
+          "startgewicht": "Kein Wert vorgegeben (keine gemessenen Kraftwerte). In W1 selbst ermitteln: Gewicht, das 12 saubere Wiederholungen mit 3–4 RIR erlaubt; Gewicht/Stufe und Maschineneinstellung notieren.",
+          "alternative": null
+        }
+      ]
+    }
+  ],
+  "progressionsregeln": [
+    {
+      "phase": "W1–2 Einstieg",
+      "saetze": "W1: 2, W2: 3 (2 bei starkem Muskelkater)",
+      "wiederholungen": "10–12",
+      "rir": "3–4",
+      "pause": "90 s",
+      "tempo": "3 s ablassen, 1 s Pause, kontrolliert hoch",
+      "regel": "Startgewicht in W1 finden; W2 gleiches Gewicht, bei mehr als 4 RIR +1 Stufe"
+    },
+    {
+      "phase": "W3–7 Aufbau",
+      "saetze": "3",
+      "wiederholungen": "Grundübungen 8–12, Isolation 10–15",
+      "rir": "2 (W6–7 Isolation 1)",
+      "pause": "Grundübungen 2–3 min, Isolation 60–90 s",
+      "tempo": "2–3 s ablassen",
+      "regel": "Double Progression: Schaffst du in allen Sätzen die obere Grenze mit Ziel-RIR, beim nächsten Mal kleinste Stufe mehr (Maschine/Kabel +1 Stufe, KH +1–2 kg, LH +2,5 kg), dann wieder unten im Bereich starten"
+    },
+    {
+      "phase": "W8 Deload",
+      "saetze": "2",
+      "wiederholungen": "8–12",
+      "rir": "4",
+      "pause": "90 s",
+      "tempo": "ruhig, Fokus Technik",
+      "regel": "Gewicht ca. 10 % unter W7, keine Einheit D; in W9 mit dem Gewicht aus W7 starten"
+    },
+    {
+      "phase": "W9–12 Intensivierung",
+      "saetze": "3–4",
+      "wiederholungen": "Grundübungen 6–10, Isolation 10–20",
+      "rir": "1–2, letzter Isolationssatz 0–1 (ab W10)",
+      "pause": "Grundübungen 2–3 min, Isolation 60–90 s",
+      "tempo": "2 s ablassen",
+      "regel": "Double Progression weiter; Grundübungen immer mindestens RIR 1"
+    }
+  ],
+  "whoop_ampel": [
+    {
+      "stufe": "Grün",
+      "erholung_prozent": "67–100",
+      "training": "Plan wie vorgesehen, Progression versuchen. Einheit D möglich"
+    },
+    {
+      "stufe": "Gelb",
+      "erholung_prozent": "34–66",
+      "training": "Plan wie vorgesehen. Gewicht halten, wenn es sich schwer anfühlt; keine Sätze bis RIR 0"
+    },
+    {
+      "stufe": "Rot",
+      "erholung_prozent": "0–33",
+      "training": "Trainieren (wenn nicht krank), pro Übung 1 Satz weniger (Volumen ca. −30 bis −40 %), RIR 3–4, keine Steigerung; alternativ um einen Tag verschieben"
+    },
+    {
+      "stufe": "Krank/Fieber",
+      "erholung_prozent": null,
+      "training": "Kein Training, nur ruhige Spaziergänge"
+    },
+    {
+      "stufe": "Muster",
+      "erholung_prozent": null,
+      "training": "2+ rote Tage hintereinander: Schlaf, Alkohol, Stress prüfen. Wochenschnitt 2 Wochen in Folge unter 40 %: Deload vorziehen"
+    }
+  ],
+  "makroziele": {
+    "Ruhetag": {
+      "kcal": 2200,
+      "protein_g": 140,
+      "fett_g": 70,
+      "kh_g": 260,
+      "ballaststoffe_g_min": "30–40"
+    },
+    "Trainingstag": {
+      "kcal": 2450,
+      "protein_g": 140,
+      "fett_g": 70,
+      "kh_g": 315,
+      "ballaststoffe_g_min": "30–40"
+    },
+    "hinweis": "ca.-Werte; Einheit-D-Tage wie Trainingstag",
+    "anpassung": "Nach 3–4 Wochen (Ende W4, W8, W12) per Wochenschnitt der Waage: unter +0,25 kg/Monat +150 kcal, +0,25 bis +0,5 kg beibehalten, über +0,5 kg (oder Bauchumfang > ca. 1 cm/Monat) −150 kcal",
+    "zunahme_ziel_kg_pro_monat": "0,25–0,5"
+  },
+  "mahlzeiten": {
+    "hinweis": "Uhrzeiten sind im Plan nicht festgelegt (uhrzeit = null). Timing: Snack 1–3 h vor dem Training, Hauptmahlzeit innerhalb ca. 2 h danach, Abstand 3–5 h, letzte größere Mahlzeit 2–3 h vor dem Schlafen. Mengen roh/trocken.",
+    "beispieltage": [
+      {
+        "tag": "Montag",
+        "tagestyp": "Trainingstag",
+        "mahlzeiten": [
+          {
+            "mahlzeit": "Frühstück",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Overnight Oats mit Soja-Skyr & Beeren",
+            "zutaten": [
+              {
+                "lebensmittel": "Haferflocken (zart)",
+                "menge_g": 70
+              },
+              {
+                "lebensmittel": "Soja-Skyr-Alternative natur",
+                "menge_g": 250
+              },
+              {
+                "lebensmittel": "Sojadrink ungesüßt (mit Calcium)",
+                "menge_g": 150
+              },
+              {
+                "lebensmittel": "Beeren (TK)",
+                "menge_g": 125
+              },
+              {
+                "lebensmittel": "Hanfsamen (geschält)",
+                "menge_g": 5
+              },
+              {
+                "lebensmittel": "Chiasamen",
+                "menge_g": 10
+              }
+            ],
+            "makros": {
+              "kcal": 560,
+              "protein_g": 36,
+              "kh_g": 54,
+              "fett_g": 22
+            }
+          },
+          {
+            "mahlzeit": "Mittagessen",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Hähnchen-Reis-Bowl mit Gemüse",
+            "zutaten": [
+              {
+                "lebensmittel": "Hähnchenbrust (roh)",
+                "menge_g": 100
+              },
+              {
+                "lebensmittel": "Basmatireis (roh)",
+                "menge_g": 120
+              },
+              {
+                "lebensmittel": "Gemüse (z. B. Brokkoli, Paprika, TK-Mix)",
+                "menge_g": 250
+              },
+              {
+                "lebensmittel": "Olivenöl",
+                "menge_g": 5
+              }
+            ],
+            "makros": {
+              "kcal": 650,
+              "protein_g": 40,
+              "kh_g": 104,
+              "fett_g": 8
+            }
+          },
+          {
+            "mahlzeit": "Snack (vor dem Training)",
+            "uhrzeit": null,
+            "timing": "1–3 h vor dem Training",
+            "gericht": "Soja-Skyr-Bowl mit Beeren & Kürbiskernen",
+            "zutaten": [
+              {
+                "lebensmittel": "Soja-Skyr-Alternative natur",
+                "menge_g": 300
+              },
+              {
+                "lebensmittel": "Beeren (TK)",
+                "menge_g": 150
+              },
+              {
+                "lebensmittel": "Haferflocken (zart)",
+                "menge_g": 40
+              },
+              {
+                "lebensmittel": "Kürbiskerne",
+                "menge_g": 10
+              },
+              {
+                "lebensmittel": "Honig",
+                "menge_g": 10
+              },
+              {
+                "lebensmittel": "Kiwi",
+                "menge_g": 150
+              },
+              {
+                "lebensmittel": "Reiswaffeln",
+                "menge_g": 25
+              }
+            ],
+            "makros": {
+              "kcal": 630,
+              "protein_g": 34,
+              "kh_g": 80,
+              "fett_g": 19
+            }
+          },
+          {
+            "mahlzeit": "Abendessen",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Ofenlachs mit Kartoffeln & Brokkoli",
+            "zutaten": [
+              {
+                "lebensmittel": "Lachsfilet (roh)",
+                "menge_g": 110
+              },
+              {
+                "lebensmittel": "Kartoffeln (roh)",
+                "menge_g": 430
+              },
+              {
+                "lebensmittel": "Gemüse (z. B. Brokkoli, Paprika, TK-Mix)",
+                "menge_g": 250
+              },
+              {
+                "lebensmittel": "Olivenöl",
+                "menge_g": 5
+              }
+            ],
+            "makros": {
+              "kcal": 640,
+              "protein_g": 38,
+              "kh_g": 74,
+              "fett_g": 21
+            }
+          }
+        ],
+        "summe": {
+          "kcal": 2480,
+          "protein_g": 148,
+          "kh_g": 313,
+          "fett_g": 70,
+          "ballaststoffe_g": 63
+        }
+      },
+      {
+        "tag": "Dienstag",
+        "tagestyp": "Ruhetag",
+        "mahlzeiten": [
+          {
+            "mahlzeit": "Frühstück",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Rührei-Brot mit Avocado",
+            "zutaten": [
+              {
+                "lebensmittel": "Eier (Gr. M, ca. 60 g)",
+                "menge_g": 120,
+                "stueck": 2
+              },
+              {
+                "lebensmittel": "Flüssiges Eiklar",
+                "menge_g": 100
+              },
+              {
+                "lebensmittel": "Vollkornbrot (ohne Nüsse)",
+                "menge_g": 100
+              },
+              {
+                "lebensmittel": "Avocado",
+                "menge_g": 50
+              },
+              {
+                "lebensmittel": "Salat/Rohkost",
+                "menge_g": 100
+              },
+              {
+                "lebensmittel": "Rapsöl",
+                "menge_g": 15
+              }
+            ],
+            "makros": {
+              "kcal": 650,
+              "protein_g": 36,
+              "kh_g": 44,
+              "fett_g": 36
+            }
+          },
+          {
+            "mahlzeit": "Mittagessen",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Linsen-Bolognese mit Vollkornnudeln",
+            "zutaten": [
+              {
+                "lebensmittel": "Rote Linsen (trocken)",
+                "menge_g": 65
+              },
+              {
+                "lebensmittel": "Vollkornnudeln (roh)",
+                "menge_g": 105
+              },
+              {
+                "lebensmittel": "Tomaten passiert",
+                "menge_g": 250
+              },
+              {
+                "lebensmittel": "Gemüse (z. B. Brokkoli, Paprika, TK-Mix)",
+                "menge_g": 100
+              },
+              {
+                "lebensmittel": "Olivenöl",
+                "menge_g": 10
+              }
+            ],
+            "makros": {
+              "kcal": 740,
+              "protein_g": 36,
+              "kh_g": 116,
+              "fett_g": 14
+            }
+          },
+          {
+            "mahlzeit": "Snack",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Thunfisch-Reiswaffeln mit Edamame",
+            "zutaten": [
+              {
+                "lebensmittel": "Thunfisch im eigenen Saft (abgetr.)",
+                "menge_g": 80
+              },
+              {
+                "lebensmittel": "Reiswaffeln",
+                "menge_g": 30
+              },
+              {
+                "lebensmittel": "Edamame (TK, geschält)",
+                "menge_g": 100
+              },
+              {
+                "lebensmittel": "Salat/Rohkost",
+                "menge_g": 100
+              }
+            ],
+            "makros": {
+              "kcal": 340,
+              "protein_g": 36,
+              "kh_g": 33,
+              "fett_g": 7
+            }
+          },
+          {
+            "mahlzeit": "Abendessen",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Hähnchen-Gemüse-Pfanne mit Reis",
+            "zutaten": [
+              {
+                "lebensmittel": "Hähnchenbrust (roh)",
+                "menge_g": 100
+              },
+              {
+                "lebensmittel": "Basmatireis (roh)",
+                "menge_g": 70
+              },
+              {
+                "lebensmittel": "Gemüse (z. B. Brokkoli, Paprika, TK-Mix)",
+                "menge_g": 250
+              },
+              {
+                "lebensmittel": "Rapsöl",
+                "menge_g": 10
+              }
+            ],
+            "makros": {
+              "kcal": 520,
+              "protein_g": 36,
+              "kh_g": 65,
+              "fett_g": 13
+            }
+          }
+        ],
+        "summe": {
+          "kcal": 2240,
+          "protein_g": 144,
+          "kh_g": 257,
+          "fett_g": 71,
+          "ballaststoffe_g": 51
+        }
+      },
+      {
+        "tag": "Mittwoch",
+        "tagestyp": "Trainingstag",
+        "mahlzeiten": [
+          {
+            "mahlzeit": "Frühstück",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Porridge mit Sojadrink, Soja-Skyr & Apfel",
+            "zutaten": [
+              {
+                "lebensmittel": "Haferflocken (zart)",
+                "menge_g": 70
+              },
+              {
+                "lebensmittel": "Haferkleie",
+                "menge_g": 15
+              },
+              {
+                "lebensmittel": "Sojadrink ungesüßt (mit Calcium)",
+                "menge_g": 250
+              },
+              {
+                "lebensmittel": "Soja-Skyr-Alternative natur",
+                "menge_g": 200
+              },
+              {
+                "lebensmittel": "Apfel",
+                "menge_g": 150
+              },
+              {
+                "lebensmittel": "Kürbiskerne",
+                "menge_g": 15
+              }
+            ],
+            "makros": {
+              "kcal": 660,
+              "protein_g": 39,
+              "kh_g": 70,
+              "fett_g": 25
+            }
+          },
+          {
+            "mahlzeit": "Mittagessen",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Chili con Carne mit Rind & Reis",
+            "zutaten": [
+              {
+                "lebensmittel": "Rinderhack 5 % Fett (roh)",
+                "menge_g": 80
+              },
+              {
+                "lebensmittel": "Kidneybohnen (Dose, abgetr.)",
+                "menge_g": 120
+              },
+              {
+                "lebensmittel": "Tomaten passiert",
+                "menge_g": 200
+              },
+              {
+                "lebensmittel": "Basmatireis (roh)",
+                "menge_g": 90
+              },
+              {
+                "lebensmittel": "Gemüse (z. B. Brokkoli, Paprika, TK-Mix)",
+                "menge_g": 100
+              },
+              {
+                "lebensmittel": "Olivenöl",
+                "menge_g": 5
+              }
+            ],
+            "makros": {
+              "kcal": 650,
+              "protein_g": 39,
+              "kh_g": 100,
+              "fett_g": 11
+            }
+          },
+          {
+            "mahlzeit": "Snack (vor dem Training)",
+            "uhrzeit": null,
+            "timing": "1–3 h vor dem Training",
+            "gericht": "Soja-Skyr-Bowl mit Beeren & Kürbiskernen",
+            "zutaten": [
+              {
+                "lebensmittel": "Soja-Skyr-Alternative natur",
+                "menge_g": 300
+              },
+              {
+                "lebensmittel": "Beeren (TK)",
+                "menge_g": 150
+              },
+              {
+                "lebensmittel": "Haferflocken (zart)",
+                "menge_g": 40
+              },
+              {
+                "lebensmittel": "Kürbiskerne",
+                "menge_g": 15
+              },
+              {
+                "lebensmittel": "Honig",
+                "menge_g": 10
+              },
+              {
+                "lebensmittel": "Kiwi",
+                "menge_g": 150
+              },
+              {
+                "lebensmittel": "Reiswaffeln",
+                "menge_g": 25
+              }
+            ],
+            "makros": {
+              "kcal": 660,
+              "protein_g": 36,
+              "kh_g": 81,
+              "fett_g": 22
+            }
+          },
+          {
+            "mahlzeit": "Abendessen",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Seelachs mit Kartoffeln & Salat",
+            "zutaten": [
+              {
+                "lebensmittel": "Seelachsfilet (roh, TK)",
+                "menge_g": 150
+              },
+              {
+                "lebensmittel": "Kartoffeln (roh)",
+                "menge_g": 380
+              },
+              {
+                "lebensmittel": "Salat/Rohkost",
+                "menge_g": 150
+              },
+              {
+                "lebensmittel": "Olivenöl",
+                "menge_g": 10
+              }
+            ],
+            "makros": {
+              "kcal": 500,
+              "protein_g": 37,
+              "kh_g": 62,
+              "fett_g": 12
+            }
+          }
+        ],
+        "summe": {
+          "kcal": 2480,
+          "protein_g": 151,
+          "kh_g": 312,
+          "fett_g": 69,
+          "ballaststoffe_g": 61
+        }
+      },
+      {
+        "tag": "Donnerstag",
+        "tagestyp": "Ruhetag",
+        "mahlzeiten": [
+          {
+            "mahlzeit": "Frühstück",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Overnight Oats mit Soja-Skyr & Beeren",
+            "zutaten": [
+              {
+                "lebensmittel": "Haferflocken (zart)",
+                "menge_g": 70
+              },
+              {
+                "lebensmittel": "Soja-Skyr-Alternative natur",
+                "menge_g": 250
+              },
+              {
+                "lebensmittel": "Sojadrink ungesüßt (mit Calcium)",
+                "menge_g": 150
+              },
+              {
+                "lebensmittel": "Beeren (TK)",
+                "menge_g": 125
+              },
+              {
+                "lebensmittel": "Hanfsamen (geschält)",
+                "menge_g": 5
+              },
+              {
+                "lebensmittel": "Chiasamen",
+                "menge_g": 10
+              }
+            ],
+            "makros": {
+              "kcal": 560,
+              "protein_g": 36,
+              "kh_g": 54,
+              "fett_g": 22
+            }
+          },
+          {
+            "mahlzeit": "Mittagessen",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Hähnchen-Kichererbsen-Wrap",
+            "zutaten": [
+              {
+                "lebensmittel": "Vollkorn-Wrap",
+                "menge_g": 150
+              },
+              {
+                "lebensmittel": "Hähnchenbrust (roh)",
+                "menge_g": 80
+              },
+              {
+                "lebensmittel": "Kichererbsen (Dose, abgetr.)",
+                "menge_g": 80
+              },
+              {
+                "lebensmittel": "Hummus",
+                "menge_g": 30
+              },
+              {
+                "lebensmittel": "Salat/Rohkost",
+                "menge_g": 100
+              }
+            ],
+            "makros": {
+              "kcal": 670,
+              "protein_g": 40,
+              "kh_g": 93,
+              "fett_g": 15
+            }
+          },
+          {
+            "mahlzeit": "Snack",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Räuchertofu-Brot mit Hummus",
+            "zutaten": [
+              {
+                "lebensmittel": "Vollkornbrot (ohne Nüsse)",
+                "menge_g": 80
+              },
+              {
+                "lebensmittel": "Räuchertofu",
+                "menge_g": 130
+              },
+              {
+                "lebensmittel": "Hummus",
+                "menge_g": 30
+              },
+              {
+                "lebensmittel": "Salat/Rohkost",
+                "menge_g": 100
+              }
+            ],
+            "makros": {
+              "kcal": 420,
+              "protein_g": 30,
+              "kh_g": 40,
+              "fett_g": 16
+            }
+          },
+          {
+            "mahlzeit": "Abendessen",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Tempeh-Gemüse-Pfanne mit Bulgur",
+            "zutaten": [
+              {
+                "lebensmittel": "Tempeh",
+                "menge_g": 130
+              },
+              {
+                "lebensmittel": "Bulgur (roh)",
+                "menge_g": 90
+              },
+              {
+                "lebensmittel": "Gemüse (z. B. Brokkoli, Paprika, TK-Mix)",
+                "menge_g": 250
+              },
+              {
+                "lebensmittel": "Rapsöl",
+                "menge_g": 5
+              }
+            ],
+            "makros": {
+              "kcal": 650,
+              "protein_g": 43,
+              "kh_g": 72,
+              "fett_g": 22
+            }
+          }
+        ],
+        "summe": {
+          "kcal": 2300,
+          "protein_g": 149,
+          "kh_g": 259,
+          "fett_g": 75,
+          "ballaststoffe_g": 67
+        }
+      },
+      {
+        "tag": "Freitag",
+        "tagestyp": "Trainingstag",
+        "mahlzeiten": [
+          {
+            "mahlzeit": "Frühstück",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Overnight Oats mit Soja-Skyr & Beeren",
+            "zutaten": [
+              {
+                "lebensmittel": "Haferflocken (zart)",
+                "menge_g": 70
+              },
+              {
+                "lebensmittel": "Soja-Skyr-Alternative natur",
+                "menge_g": 250
+              },
+              {
+                "lebensmittel": "Sojadrink ungesüßt (mit Calcium)",
+                "menge_g": 150
+              },
+              {
+                "lebensmittel": "Beeren (TK)",
+                "menge_g": 125
+              },
+              {
+                "lebensmittel": "Hanfsamen (geschält)",
+                "menge_g": 5
+              },
+              {
+                "lebensmittel": "Chiasamen",
+                "menge_g": 10
+              }
+            ],
+            "makros": {
+              "kcal": 560,
+              "protein_g": 36,
+              "kh_g": 54,
+              "fett_g": 22
+            }
+          },
+          {
+            "mahlzeit": "Mittagessen",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Linsen-Bolognese mit Vollkornnudeln",
+            "zutaten": [
+              {
+                "lebensmittel": "Rote Linsen (trocken)",
+                "menge_g": 65
+              },
+              {
+                "lebensmittel": "Vollkornnudeln (roh)",
+                "menge_g": 105
+              },
+              {
+                "lebensmittel": "Tomaten passiert",
+                "menge_g": 250
+              },
+              {
+                "lebensmittel": "Gemüse (z. B. Brokkoli, Paprika, TK-Mix)",
+                "menge_g": 100
+              },
+              {
+                "lebensmittel": "Olivenöl",
+                "menge_g": 10
+              }
+            ],
+            "makros": {
+              "kcal": 740,
+              "protein_g": 36,
+              "kh_g": 116,
+              "fett_g": 14
+            }
+          },
+          {
+            "mahlzeit": "Snack (vor dem Training)",
+            "uhrzeit": null,
+            "timing": "1–3 h vor dem Training",
+            "gericht": "Soja-Skyr-Bowl mit Beeren & Kürbiskernen",
+            "zutaten": [
+              {
+                "lebensmittel": "Soja-Skyr-Alternative natur",
+                "menge_g": 300
+              },
+              {
+                "lebensmittel": "Beeren (TK)",
+                "menge_g": 150
+              },
+              {
+                "lebensmittel": "Haferflocken (zart)",
+                "menge_g": 40
+              },
+              {
+                "lebensmittel": "Kürbiskerne",
+                "menge_g": 15
+              },
+              {
+                "lebensmittel": "Honig",
+                "menge_g": 10
+              },
+              {
+                "lebensmittel": "Kiwi",
+                "menge_g": 150
+              },
+              {
+                "lebensmittel": "Reiswaffeln",
+                "menge_g": 25
+              }
+            ],
+            "makros": {
+              "kcal": 660,
+              "protein_g": 36,
+              "kh_g": 81,
+              "fett_g": 22
+            }
+          },
+          {
+            "mahlzeit": "Abendessen",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Hähnchen-Gemüse-Pfanne mit Reis",
+            "zutaten": [
+              {
+                "lebensmittel": "Hähnchenbrust (roh)",
+                "menge_g": 100
+              },
+              {
+                "lebensmittel": "Basmatireis (roh)",
+                "menge_g": 65
+              },
+              {
+                "lebensmittel": "Gemüse (z. B. Brokkoli, Paprika, TK-Mix)",
+                "menge_g": 250
+              },
+              {
+                "lebensmittel": "Rapsöl",
+                "menge_g": 10
+              }
+            ],
+            "makros": {
+              "kcal": 500,
+              "protein_g": 35,
+              "kh_g": 61,
+              "fett_g": 13
+            }
+          }
+        ],
+        "summe": {
+          "kcal": 2460,
+          "protein_g": 144,
+          "kh_g": 311,
+          "fett_g": 71,
+          "ballaststoffe_g": 69
+        }
+      },
+      {
+        "tag": "Samstag",
+        "tagestyp": "Ruhetag",
+        "mahlzeiten": [
+          {
+            "mahlzeit": "Frühstück",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Rührei-Brot mit Avocado",
+            "zutaten": [
+              {
+                "lebensmittel": "Eier (Gr. M, ca. 60 g)",
+                "menge_g": 120,
+                "stueck": 2
+              },
+              {
+                "lebensmittel": "Flüssiges Eiklar",
+                "menge_g": 100
+              },
+              {
+                "lebensmittel": "Vollkornbrot (ohne Nüsse)",
+                "menge_g": 100
+              },
+              {
+                "lebensmittel": "Avocado",
+                "menge_g": 50
+              },
+              {
+                "lebensmittel": "Salat/Rohkost",
+                "menge_g": 100
+              },
+              {
+                "lebensmittel": "Rapsöl",
+                "menge_g": 10
+              }
+            ],
+            "makros": {
+              "kcal": 600,
+              "protein_g": 36,
+              "kh_g": 44,
+              "fett_g": 31
+            }
+          },
+          {
+            "mahlzeit": "Mittagessen",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Chili con Carne mit Rind & Reis",
+            "zutaten": [
+              {
+                "lebensmittel": "Rinderhack 5 % Fett (roh)",
+                "menge_g": 80
+              },
+              {
+                "lebensmittel": "Kidneybohnen (Dose, abgetr.)",
+                "menge_g": 120
+              },
+              {
+                "lebensmittel": "Tomaten passiert",
+                "menge_g": 200
+              },
+              {
+                "lebensmittel": "Basmatireis (roh)",
+                "menge_g": 105
+              },
+              {
+                "lebensmittel": "Gemüse (z. B. Brokkoli, Paprika, TK-Mix)",
+                "menge_g": 100
+              },
+              {
+                "lebensmittel": "Olivenöl",
+                "menge_g": 5
+              }
+            ],
+            "makros": {
+              "kcal": 710,
+              "protein_g": 40,
+              "kh_g": 112,
+              "fett_g": 11
+            }
+          },
+          {
+            "mahlzeit": "Snack",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Thunfisch-Reiswaffeln mit Edamame",
+            "zutaten": [
+              {
+                "lebensmittel": "Thunfisch im eigenen Saft (abgetr.)",
+                "menge_g": 80
+              },
+              {
+                "lebensmittel": "Reiswaffeln",
+                "menge_g": 30
+              },
+              {
+                "lebensmittel": "Edamame (TK, geschält)",
+                "menge_g": 100
+              },
+              {
+                "lebensmittel": "Salat/Rohkost",
+                "menge_g": 100
+              }
+            ],
+            "makros": {
+              "kcal": 340,
+              "protein_g": 36,
+              "kh_g": 33,
+              "fett_g": 7
+            }
+          },
+          {
+            "mahlzeit": "Abendessen",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Ofenlachs mit Kartoffeln & Brokkoli",
+            "zutaten": [
+              {
+                "lebensmittel": "Lachsfilet (roh)",
+                "menge_g": 110
+              },
+              {
+                "lebensmittel": "Kartoffeln (roh)",
+                "menge_g": 400
+              },
+              {
+                "lebensmittel": "Gemüse (z. B. Brokkoli, Paprika, TK-Mix)",
+                "menge_g": 250
+              },
+              {
+                "lebensmittel": "Olivenöl",
+                "menge_g": 5
+              }
+            ],
+            "makros": {
+              "kcal": 620,
+              "protein_g": 38,
+              "kh_g": 70,
+              "fett_g": 21
+            }
+          }
+        ],
+        "summe": {
+          "kcal": 2260,
+          "protein_g": 150,
+          "kh_g": 258,
+          "fett_g": 70,
+          "ballaststoffe_g": 51
+        }
+      },
+      {
+        "tag": "Sonntag",
+        "tagestyp": "Ruhetag",
+        "mahlzeiten": [
+          {
+            "mahlzeit": "Frühstück",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Porridge mit Sojadrink, Soja-Skyr & Apfel",
+            "zutaten": [
+              {
+                "lebensmittel": "Haferflocken (zart)",
+                "menge_g": 70
+              },
+              {
+                "lebensmittel": "Haferkleie",
+                "menge_g": 15
+              },
+              {
+                "lebensmittel": "Sojadrink ungesüßt (mit Calcium)",
+                "menge_g": 250
+              },
+              {
+                "lebensmittel": "Soja-Skyr-Alternative natur",
+                "menge_g": 200
+              },
+              {
+                "lebensmittel": "Apfel",
+                "menge_g": 150
+              },
+              {
+                "lebensmittel": "Kürbiskerne",
+                "menge_g": 20
+              }
+            ],
+            "makros": {
+              "kcal": 690,
+              "protein_g": 41,
+              "kh_g": 70,
+              "fett_g": 27
+            }
+          },
+          {
+            "mahlzeit": "Mittagessen",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Hähnchen-Reis-Bowl mit Gemüse",
+            "zutaten": [
+              {
+                "lebensmittel": "Hähnchenbrust (roh)",
+                "menge_g": 100
+              },
+              {
+                "lebensmittel": "Basmatireis (roh)",
+                "menge_g": 105
+              },
+              {
+                "lebensmittel": "Gemüse (z. B. Brokkoli, Paprika, TK-Mix)",
+                "menge_g": 250
+              },
+              {
+                "lebensmittel": "Olivenöl",
+                "menge_g": 10
+              }
+            ],
+            "makros": {
+              "kcal": 640,
+              "protein_g": 38,
+              "kh_g": 92,
+              "fett_g": 13
+            }
+          },
+          {
+            "mahlzeit": "Snack",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Räuchertofu-Brot mit Hummus",
+            "zutaten": [
+              {
+                "lebensmittel": "Vollkornbrot (ohne Nüsse)",
+                "menge_g": 80
+              },
+              {
+                "lebensmittel": "Räuchertofu",
+                "menge_g": 130
+              },
+              {
+                "lebensmittel": "Hummus",
+                "menge_g": 30
+              },
+              {
+                "lebensmittel": "Salat/Rohkost",
+                "menge_g": 100
+              }
+            ],
+            "makros": {
+              "kcal": 420,
+              "protein_g": 30,
+              "kh_g": 40,
+              "fett_g": 16
+            }
+          },
+          {
+            "mahlzeit": "Abendessen",
+            "uhrzeit": null,
+            "timing": null,
+            "gericht": "Seelachs mit Kartoffeln & Salat",
+            "zutaten": [
+              {
+                "lebensmittel": "Seelachsfilet (roh, TK)",
+                "menge_g": 150
+              },
+              {
+                "lebensmittel": "Kartoffeln (roh)",
+                "menge_g": 340
+              },
+              {
+                "lebensmittel": "Salat/Rohkost",
+                "menge_g": 150
+              },
+              {
+                "lebensmittel": "Olivenöl",
+                "menge_g": 10
+              }
+            ],
+            "makros": {
+              "kcal": 470,
+              "protein_g": 36,
+              "kh_g": 56,
+              "fett_g": 12
+            }
+          }
+        ],
+        "summe": {
+          "kcal": 2220,
+          "protein_g": 145,
+          "kh_g": 257,
+          "fett_g": 68,
+          "ballaststoffe_g": 45
+        }
+      }
+    ]
+  },
+  "einkaufsliste_7_tage": [
+    {
+      "gruppe": "Eiweiß (Kühlregal, Fleisch, Fisch, Soja)",
+      "lebensmittel": "Soja-Skyr-Alternative natur",
+      "menge_7_tage": "ca. 2,0 kg",
+      "hinweis": "Becher à ca. 400 g; ohne Mandelprotein (Zutaten prüfen)"
+    },
+    {
+      "gruppe": "Eiweiß (Kühlregal, Fleisch, Fisch, Soja)",
+      "lebensmittel": "Sojadrink ungesüßt (mit Calcium)",
+      "menge_7_tage": "ca. 950 g",
+      "hinweis": "1-l-Packung, mit Calcium angereichert"
+    },
+    {
+      "gruppe": "Eiweiß (Kühlregal, Fleisch, Fisch, Soja)",
+      "lebensmittel": "Eier (Gr. M)",
+      "menge_7_tage": "4 Stück",
+      "hinweis": "Packung à 6 oder 10"
+    },
+    {
+      "gruppe": "Eiweiß (Kühlregal, Fleisch, Fisch, Soja)",
+      "lebensmittel": "Flüssiges Eiklar",
+      "menge_7_tage": "ca. 200 g",
+      "hinweis": "Kühlregal, oft 500-g-Flasche"
+    },
+    {
+      "gruppe": "Eiweiß (Kühlregal, Fleisch, Fisch, Soja)",
+      "lebensmittel": "Hähnchenbrust",
+      "menge_7_tage": "ca. 480 g",
+      "hinweis": "frisch oder TK"
+    },
+    {
+      "gruppe": "Eiweiß (Kühlregal, Fleisch, Fisch, Soja)",
+      "lebensmittel": "Rinderhack 5 % Fett",
+      "menge_7_tage": "ca. 160 g",
+      "hinweis": "Packung à ca. 400 g, Rest einfrieren"
+    },
+    {
+      "gruppe": "Eiweiß (Kühlregal, Fleisch, Fisch, Soja)",
+      "lebensmittel": "Lachsfilet",
+      "menge_7_tage": "ca. 220 g",
+      "hinweis": "2 Filets à ca. 110 g, auch TK"
+    },
+    {
+      "gruppe": "Eiweiß (Kühlregal, Fleisch, Fisch, Soja)",
+      "lebensmittel": "Seelachsfilet (roh, TK)",
+      "menge_7_tage": "ca. 300 g",
+      "hinweis": "TK-Packung"
+    },
+    {
+      "gruppe": "Eiweiß (Kühlregal, Fleisch, Fisch, Soja)",
+      "lebensmittel": "Thunfisch im eigenen Saft (abgetr.)",
+      "menge_7_tage": "ca. 160 g",
+      "hinweis": "2 Dosen (je ca. 100 g abgetropft)"
+    },
+    {
+      "gruppe": "Eiweiß (Kühlregal, Fleisch, Fisch, Soja)",
+      "lebensmittel": "Räuchertofu",
+      "menge_7_tage": "ca. 260 g",
+      "hinweis": "1–2 Packungen à 200 g"
+    },
+    {
+      "gruppe": "Eiweiß (Kühlregal, Fleisch, Fisch, Soja)",
+      "lebensmittel": "Tempeh",
+      "menge_7_tage": "ca. 130 g",
+      "hinweis": "1 Packung à ca. 200 g"
+    },
+    {
+      "gruppe": "Eiweiß (Kühlregal, Fleisch, Fisch, Soja)",
+      "lebensmittel": "Edamame (TK, geschält)",
+      "menge_7_tage": "ca. 200 g",
+      "hinweis": "TK-Beutel"
+    },
+    {
+      "gruppe": "Getreide, Kartoffeln, Hülsenfrüchte",
+      "lebensmittel": "Haferflocken (zart)",
+      "menge_7_tage": "ca. 470 g",
+      "hinweis": null
+    },
+    {
+      "gruppe": "Getreide, Kartoffeln, Hülsenfrüchte",
+      "lebensmittel": "Haferkleie",
+      "menge_7_tage": "ca. 30 g",
+      "hinweis": null
+    },
+    {
+      "gruppe": "Getreide, Kartoffeln, Hülsenfrüchte",
+      "lebensmittel": "Basmatireis",
+      "menge_7_tage": "ca. 560 g",
+      "hinweis": null
+    },
+    {
+      "gruppe": "Getreide, Kartoffeln, Hülsenfrüchte",
+      "lebensmittel": "Vollkornnudeln",
+      "menge_7_tage": "ca. 210 g",
+      "hinweis": null
+    },
+    {
+      "gruppe": "Getreide, Kartoffeln, Hülsenfrüchte",
+      "lebensmittel": "Bulgur",
+      "menge_7_tage": "ca. 90 g",
+      "hinweis": null
+    },
+    {
+      "gruppe": "Getreide, Kartoffeln, Hülsenfrüchte",
+      "lebensmittel": "Kartoffeln",
+      "menge_7_tage": "ca. 1,6 kg",
+      "hinweis": null
+    },
+    {
+      "gruppe": "Getreide, Kartoffeln, Hülsenfrüchte",
+      "lebensmittel": "Vollkornbrot (ohne Nüsse)",
+      "menge_7_tage": "ca. 360 g",
+      "hinweis": "ohne Nüsse, auf „Spuren von Schalenfrüchten“ achten"
+    },
+    {
+      "gruppe": "Getreide, Kartoffeln, Hülsenfrüchte",
+      "lebensmittel": "Vollkorn-Wrap",
+      "menge_7_tage": "ca. 150 g",
+      "hinweis": "ca. 2–3 Wraps"
+    },
+    {
+      "gruppe": "Getreide, Kartoffeln, Hülsenfrüchte",
+      "lebensmittel": "Reiswaffeln",
+      "menge_7_tage": "ca. 140 g",
+      "hinweis": "Natur, 1 Waffel ≈ 8 g"
+    },
+    {
+      "gruppe": "Getreide, Kartoffeln, Hülsenfrüchte",
+      "lebensmittel": "Rote Linsen (trocken)",
+      "menge_7_tage": "ca. 130 g",
+      "hinweis": null
+    },
+    {
+      "gruppe": "Getreide, Kartoffeln, Hülsenfrüchte",
+      "lebensmittel": "Kidneybohnen (Dose, abgetr.)",
+      "menge_7_tage": "ca. 240 g",
+      "hinweis": "Dose, abgetropft gewogen"
+    },
+    {
+      "gruppe": "Getreide, Kartoffeln, Hülsenfrüchte",
+      "lebensmittel": "Kichererbsen (Dose, abgetr.)",
+      "menge_7_tage": "ca. 80 g",
+      "hinweis": "Dose, abgetropft gewogen"
+    },
+    {
+      "gruppe": "Obst und Gemüse",
+      "lebensmittel": "Apfel",
+      "menge_7_tage": "ca. 300 g",
+      "hinweis": "1 Apfel ≈ 150 g"
+    },
+    {
+      "gruppe": "Obst und Gemüse",
+      "lebensmittel": "Kiwi",
+      "menge_7_tage": "ca. 450 g",
+      "hinweis": "1 Kiwi ≈ 75 g, ca. 6 Stück"
+    },
+    {
+      "gruppe": "Obst und Gemüse",
+      "lebensmittel": "Beeren (TK)",
+      "menge_7_tage": "ca. 820 g",
+      "hinweis": null
+    },
+    {
+      "gruppe": "Obst und Gemüse",
+      "lebensmittel": "Avocado",
+      "menge_7_tage": "ca. 100 g",
+      "hinweis": "1 Avocado"
+    },
+    {
+      "gruppe": "Obst und Gemüse",
+      "lebensmittel": "Gemüse (z. B. Brokkoli, Paprika, TK-Mix)",
+      "menge_7_tage": "ca. 2,1 kg",
+      "hinweis": "frisch und TK gemischt"
+    },
+    {
+      "gruppe": "Obst und Gemüse",
+      "lebensmittel": "Salat/Rohkost",
+      "menge_7_tage": "ca. 1,0 kg",
+      "hinweis": null
+    },
+    {
+      "gruppe": "Obst und Gemüse",
+      "lebensmittel": "Tomaten passiert",
+      "menge_7_tage": "ca. 900 g",
+      "hinweis": "Packung à 500 g"
+    },
+    {
+      "gruppe": "Kerne, Samen, Öle, Sonstiges",
+      "lebensmittel": "Kürbiskerne",
+      "menge_7_tage": "ca. 80 g",
+      "hinweis": null
+    },
+    {
+      "gruppe": "Kerne, Samen, Öle, Sonstiges",
+      "lebensmittel": "Hanfsamen (geschält)",
+      "menge_7_tage": "ca. 20 g",
+      "hinweis": null
+    },
+    {
+      "gruppe": "Kerne, Samen, Öle, Sonstiges",
+      "lebensmittel": "Chiasamen",
+      "menge_7_tage": "ca. 30 g",
+      "hinweis": null
+    },
+    {
+      "gruppe": "Kerne, Samen, Öle, Sonstiges",
+      "lebensmittel": "Olivenöl",
+      "menge_7_tage": "ca. 80 g",
+      "hinweis": "Vorrat"
+    },
+    {
+      "gruppe": "Kerne, Samen, Öle, Sonstiges",
+      "lebensmittel": "Rapsöl",
+      "menge_7_tage": "ca. 50 g",
+      "hinweis": "Vorrat"
+    },
+    {
+      "gruppe": "Kerne, Samen, Öle, Sonstiges",
+      "lebensmittel": "Hummus",
+      "menge_7_tage": "ca. 90 g",
+      "hinweis": "enthält Sesam; Etikett auf Nüsse prüfen"
+    },
+    {
+      "gruppe": "Kerne, Samen, Öle, Sonstiges",
+      "lebensmittel": "Honig",
+      "menge_7_tage": "ca. 30 g",
+      "hinweis": null
+    }
+  ],
+  "supplements": [
+    {
+      "name": "Kreatin-Monohydrat",
+      "status": "Basis",
+      "phasen": [
+        {
+          "zeitraum": "2026-12-07 bis 2026-12-13 (W1, Ladephase)",
+          "dosis": "20 g pro Tag (4 × 5 g)",
+          "zeitpunkt": "je 5 g zu den 4 Mahlzeiten, mit viel Wasser"
+        },
+        {
+          "zeitraum": "ab 2026-12-14 (ab W2)",
+          "dosis": "5 g täglich (3 g ist auch ok)",
+          "zeitpunkt": "jeden Tag, auch an Ruhetagen"
+        }
+      ],
+      "hinweise": [
+        "Bei Magenproblemen 2 × 10 g oder direkt 3–5 g ohne Ladephase (dann voll nach ca. 3–4 Wochen)",
+        "+0,5–1 kg Wasser in W1 ist normal",
+        "Erhöht den Kreatininwert im Blut; vor Blutabnahmen den Arzt informieren"
+      ]
+    },
+    {
+      "name": "Vitamin D3",
+      "status": "Basis",
+      "dosis": "4.000 IE täglich",
+      "zeitpunkt": "zu einer fetthaltigen Mahlzeit",
+      "zeitraum": "2026-12-07 bis 2027-02-28",
+      "danach": "Spiegel messen lassen (Ziel 30–50 ng/ml), dann 1.000–2.000 IE täglich zur Erhaltung",
+      "optional": "K2 (MK-7) 100–200 µg",
+      "grenze": "Nicht mehr als 4.000 IE täglich ohne ärztliche Kontrolle"
+    },
+    {
+      "name": "Pflanzliches Proteinpulver (z. B. Sunwarrior Warrior Blend Chocolate)",
+      "status": "bei Bedarf",
+      "dosis": "1 Portion",
+      "zeitpunkt": "nur wenn 140 g Eiweiß mit Essen nicht erreicht werden",
+      "hinweise": [
+        "Kein Whey, kein Casein",
+        "Laut Hersteller MCT-Öl aus Kokos",
+        "Laut italienischem Sunwarrior-Vertrieb Herstellung in einer Anlage, die auch Erdnüsse und Nüsse verarbeiten kann",
+        "Zutatenliste auf Nüsse prüfen",
+        "Abgelaufenes Pulver ersetzen"
+      ]
+    },
+    {
+      "name": "Omega-3 (EPA/DHA)",
+      "status": "optional",
+      "dosis": "ca. 1–2 g EPA+DHA täglich",
+      "zeitpunkt": "zu einer Mahlzeit",
+      "bedingung": "wenn weniger als 2 × Fisch pro Woche"
+    },
+    {
+      "name": "Magnesium (Citrat oder Bisglycinat)",
+      "status": "optional",
+      "dosis": "ca. 200–300 mg",
+      "zeitpunkt": "abends",
+      "bedingung": "nur bei Schlafproblemen oder Krämpfen"
+    },
+    {
+      "name": "Kollagen + Vitamin C",
+      "status": "optional",
+      "dosis": "10–15 g Kollagen + ca. 50 mg Vitamin C",
+      "zeitpunkt": "30–60 min vor dem Training"
+    },
+    {
+      "name": "Zink",
+      "status": "Basis (Akne)",
+      "dosis": "15–25 mg elementares Zink täglich (z. B. Zinkbisglycinat oder -gluconat)",
+      "zeitpunkt": "zu einer Mahlzeit, z. B. zum Abendessen; nicht auf nüchternen Magen",
+      "zeitraum": "2026-12-07 bis 2027-02-28",
+      "hinweise": [
+        "Wegen der Akne",
+        "Nicht mehr als 25 mg täglich ohne ärztliche Kontrolle (hemmt auf Dauer die Kupferaufnahme)",
+        "Zink und Kupfer vor dem Start und nach 12 Wochen mitmessen lassen"
+      ]
+    }
+  ],
+  "supplements_nicht": [
+    "Fatburner",
+    "Testo-Booster",
+    "Hochdosierte Pflanzenextrakte (z. B. Ashwagandha, Grüntee-Extrakt)",
+    "Pre-Workouts mit viel Koffein am Nachmittag oder Abend"
+  ],
+  "koffein_regel": "Kein Koffein nach 14 Uhr",
+  "ausschluesse": [
+    {
+      "gruppe": "Bananen"
+    },
+    {
+      "gruppe": "Kuhmilch und Kuhmilchprodukte",
+      "umfasst": [
+        "Milch",
+        "Joghurt",
+        "Skyr",
+        "Quark",
+        "Käse",
+        "Whey/Molkenprotein",
+        "Casein",
+        "Molke",
+        "Milchpulver"
+      ]
+    },
+    {
+      "gruppe": "Nüsse jeglicher Art",
+      "umfasst": [
+        "alle Nüsse",
+        "Nussmus",
+        "Nussöle"
+      ],
+      "hinweis": "„Kann Spuren von Schalenfrüchten enthalten“ meiden; Zutatenlisten prüfen (Brot, Müsli, Pflanzen-Joghurts mit Mandelprotein, Pesto, Schokolade, Proteinriegel)"
+    }
+  ],
+  "alltag": {
+    "schritte_pro_tag": "8.000–10.000",
+    "schlaf_ziel_h": "7–7,5",
+    "einschlafen_ziel": "ca. 00:00 (schrittweise)",
+    "aufstehen": "feste Zeit, Wochenende max. 1 h später"
+  },
+  "akne_hinweise": [
+    "Keine Milch und keine Molke (ohnehin ausgeschlossen)",
+    "Wenig Zucker und wenig Lebensmittel mit hohem glykämischem Index",
+    "Vollkorn, Hafer, Hülsenfrüchte und viel Gemüse statt Weißmehl und Süßem",
+    "Reiswaffeln und Honig nur in kleinen Mengen rund ums Training",
+    "Fisch 2 × pro Woche (Omega-3)",
+    "Zinkreiche Lebensmittel im Plan: Kürbiskerne, Hanfsamen, Haferflocken, Linsen, Rind",
+    "Zink 15–25 mg täglich als Supplement (siehe supplements)",
+    "Akne-Medikamente und Supplements mit dem Hautarzt abstimmen"
+  ]
+}
